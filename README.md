@@ -3,7 +3,7 @@
 
 ### Arrays 2D
   Here, I resolve the way for exit in the labirinty use Recursive Method.
-  The project is in Labirinto file, be sure the kind of different project you make (eventually) respects rules of symbols from walls, ways and "void" - no space, and dimensions (18x8)
+  The project is in Labirinto.txt file, be sure the kind of different project you make (eventually) respects rules of symbols from walls, ways and "void" - no space, and dimensions (18x8)
   
 
 ### Source and Ordenation
